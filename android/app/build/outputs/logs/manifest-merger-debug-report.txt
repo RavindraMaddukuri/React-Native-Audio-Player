@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-gesture-handler] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/83da6f984f986a8d9d9e9b6d215bdca6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c0925c7c8d2f302d2d0011196617e0c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ca0ca80e182fa5fb16dad876b888f393/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82b641a269430f7bf7be6f2cab14fc9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/337cf15895ba0b413de9e9aadccb35be/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/5f840b5a65f2c55a0b1cb58e0c331883/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/84bdfc1d0a9e1aea807baa61d3717551/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/d638bb8f443800a78c141a0b6e74926e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7800f0e0b8949c9bf7fbdd33b52fcbcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/183291b1b8ea6f3a552a7e4767869e71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3a5016159e9fc0d5ff72bef8d250fa33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82a10151ddd9868c101adede7ca6de36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/31a18e30c7f0194a86f7fc216de03883/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/700b5bf481acf341b9ef3b63c6d81cac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/60a0dc3212b7bcc2402609f718298107/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/050c32c4404295aab30cb81f6af48bed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ee21f9d79904af3725da45a3519b133c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e802723b5bbaabc82d5675a5a11a3644/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/2e1e8cf0199bb0e1be617c267f5a2812/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b7f7e8919ef6a6028059ea1b05ebdd64/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/321f72c6d96d509e427881f69cb66ec4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/09966ae1eee27b68a632c8544817ffb5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f8a612d780e51779f506d951f62145e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1fdcb7634e496b03e26b8019452849f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3905ffc91e46bb5d2dcfa1d381a715a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b2865b4ea43ee719ff41fa70878e95d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/53f07c83da244a4f08d1ca1985d5de4e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/910ea2e621a584867ed844ac8d14c0d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/a0474f8177c258255797c47e72e020e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e997422ef60a39919a31fa1c27dc79ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/77fa6503e36b091d0e40715e5bca5923/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7052ba3a3319064ee4c58bed3033f6fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c002fc0a6fd09d5629a00442cf361dde/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/629ebe632ef4099fd8839263970b1b8f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b49b4abe0228007344943cbdafd542b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1f9a267de2a15e3dd85d994a8f121dbc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f145da8cf763a3273ad149eb06615b3b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/83da6f984f986a8d9d9e9b6d215bdca6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/83da6f984f986a8d9d9e9b6d215bdca6/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/337cf15895ba0b413de9e9aadccb35be/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/337cf15895ba0b413de9e9aadccb35be/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/2e1e8cf0199bb0e1be617c267f5a2812/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/2e1e8cf0199bb0e1be617c267f5a2812/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/09966ae1eee27b68a632c8544817ffb5/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/09966ae1eee27b68a632c8544817ffb5/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1f9a267de2a15e3dd85d994a8f121dbc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1f9a267de2a15e3dd85d994a8f121dbc/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.musicapp.MainActivity
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/83da6f984f986a8d9d9e9b6d215bdca6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/83da6f984f986a8d9d9e9b6d215bdca6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c0925c7c8d2f302d2d0011196617e0c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c0925c7c8d2f302d2d0011196617e0c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ca0ca80e182fa5fb16dad876b888f393/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ca0ca80e182fa5fb16dad876b888f393/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82b641a269430f7bf7be6f2cab14fc9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82b641a269430f7bf7be6f2cab14fc9b/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/337cf15895ba0b413de9e9aadccb35be/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/337cf15895ba0b413de9e9aadccb35be/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/5f840b5a65f2c55a0b1cb58e0c331883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/5f840b5a65f2c55a0b1cb58e0c331883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/84bdfc1d0a9e1aea807baa61d3717551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/84bdfc1d0a9e1aea807baa61d3717551/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/d638bb8f443800a78c141a0b6e74926e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/d638bb8f443800a78c141a0b6e74926e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7800f0e0b8949c9bf7fbdd33b52fcbcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7800f0e0b8949c9bf7fbdd33b52fcbcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/183291b1b8ea6f3a552a7e4767869e71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/183291b1b8ea6f3a552a7e4767869e71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3a5016159e9fc0d5ff72bef8d250fa33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3a5016159e9fc0d5ff72bef8d250fa33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82a10151ddd9868c101adede7ca6de36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/82a10151ddd9868c101adede7ca6de36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/31a18e30c7f0194a86f7fc216de03883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/31a18e30c7f0194a86f7fc216de03883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/700b5bf481acf341b9ef3b63c6d81cac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/700b5bf481acf341b9ef3b63c6d81cac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/60a0dc3212b7bcc2402609f718298107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/60a0dc3212b7bcc2402609f718298107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/050c32c4404295aab30cb81f6af48bed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/050c32c4404295aab30cb81f6af48bed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ee21f9d79904af3725da45a3519b133c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ee21f9d79904af3725da45a3519b133c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e802723b5bbaabc82d5675a5a11a3644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e802723b5bbaabc82d5675a5a11a3644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/130ae8f9ff36e59861fa791746d082c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/2e1e8cf0199bb0e1be617c267f5a2812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/2e1e8cf0199bb0e1be617c267f5a2812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b7f7e8919ef6a6028059ea1b05ebdd64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b7f7e8919ef6a6028059ea1b05ebdd64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/321f72c6d96d509e427881f69cb66ec4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/321f72c6d96d509e427881f69cb66ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/09966ae1eee27b68a632c8544817ffb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/09966ae1eee27b68a632c8544817ffb5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f8a612d780e51779f506d951f62145e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f8a612d780e51779f506d951f62145e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1fdcb7634e496b03e26b8019452849f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1fdcb7634e496b03e26b8019452849f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3905ffc91e46bb5d2dcfa1d381a715a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/3905ffc91e46bb5d2dcfa1d381a715a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b2865b4ea43ee719ff41fa70878e95d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b2865b4ea43ee719ff41fa70878e95d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/53f07c83da244a4f08d1ca1985d5de4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/53f07c83da244a4f08d1ca1985d5de4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/910ea2e621a584867ed844ac8d14c0d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/910ea2e621a584867ed844ac8d14c0d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/a0474f8177c258255797c47e72e020e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/a0474f8177c258255797c47e72e020e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e997422ef60a39919a31fa1c27dc79ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/e997422ef60a39919a31fa1c27dc79ed/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/77fa6503e36b091d0e40715e5bca5923/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/77fa6503e36b091d0e40715e5bca5923/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7052ba3a3319064ee4c58bed3033f6fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/7052ba3a3319064ee4c58bed3033f6fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c002fc0a6fd09d5629a00442cf361dde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/c002fc0a6fd09d5629a00442cf361dde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/629ebe632ef4099fd8839263970b1b8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/629ebe632ef4099fd8839263970b1b8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b49b4abe0228007344943cbdafd542b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/b49b4abe0228007344943cbdafd542b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1f9a267de2a15e3dd85d994a8f121dbc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/1f9a267de2a15e3dd85d994a8f121dbc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f145da8cf763a3273ad149eb06615b3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/f145da8cf763a3273ad149eb06615b3b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/stellentsoft/Desktop/MusicApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-74
+service#com.guichaguri.trackplayer.service.MusicService
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-24:19
+	android:enabled
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-75
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-23:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-74
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from [:react-native-track-player] /Users/stellentsoft/Desktop/MusicApp/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:19-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ca0ca80e182fa5fb16dad876b888f393/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.2] /Users/stellentsoft/.gradle/caches/transforms-2/files-2.1/ca0ca80e182fa5fb16dad876b888f393/AndroidManifest.xml:24:22-76
